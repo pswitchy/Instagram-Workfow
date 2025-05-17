@@ -20,7 +20,7 @@ export const mockPosts: InstagramPostData[] = [
     id: 'post1',
     imageUrl: getPicsumImageUrlById(POST_IMAGE_IDS.whatsapp, 600, 500),
     thumbnailUrl: getPicsumThumbnailUrlById(POST_IMAGE_IDS.whatsapp),
-    caption: 'The way this ets is totally amazing! ...',
+    caption: 'The way this gets is totally amazing! ...',
     likes: 3000,
     commentsCount: 100,
     date: '17 May, 2023',
